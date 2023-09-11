@@ -13,7 +13,6 @@ def quicksort(arr, low, high):
         quicksort(arr, low, pi-1)
         quicksort(arr, pi+1, high)
 
-a = [2, 3, 6, 1]
+a = [20, 15, 4, 69,3, 4.55, 5.55]
 quicksort(a, 0, len(a)-1)
 print(a)
-
