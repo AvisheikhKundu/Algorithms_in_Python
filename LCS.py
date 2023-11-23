@@ -2,6 +2,7 @@
 
 
 # Function to find lcs_algo
+
 def lcs_algo(S1, S2, m, n):
     L = [[0 for x in range(n+1)] for x in range(m+1)]
 
@@ -35,7 +36,7 @@ def lcs_algo(S1, S2, m, n):
         else:
             j -= 1
             
-            
+
     # Printing the sub sequences
     print("S1 : " + S1 + "\nS2 : " + S2)
     print("LCS: " + "".join(lcs_algo))
