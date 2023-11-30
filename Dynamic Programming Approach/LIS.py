@@ -1,6 +1,3 @@
-# Dynamic programming Python implementation
-# of LIS problem
-
 
 # lis returns length of the longest
 # increasing subsequence in arr of size n
@@ -34,4 +31,4 @@ if __name__ == '__main__':
 	print("Length of lis is", lis(arr))
 
 
-# This code is contributed by Nikhil Kumar Singh
+

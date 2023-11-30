@@ -1,4 +1,3 @@
-# The longest common subsequence in Python
 
 
 # Function to find lcs_algo

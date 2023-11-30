@@ -1,4 +1,3 @@
-# Kosaraju's algorithm to find strongly connected components in Python
 
 
 from collections import defaultdict
