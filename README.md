@@ -333,3 +333,5 @@ The topics covered are the following:
 * [Reverse a binary tree algo](tree.md#reverse-a-binary-tree-algo)
 * [Trie definition, implementation and use case](tree.md#trie-definition-implementation-and-use-case)
 * [Why to use BST over hash table](tree.md#why-to-use-bst-over-hash-table)
+#   A l g o r i t h m -  
+ 
