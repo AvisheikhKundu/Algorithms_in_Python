@@ -1,7 +1,6 @@
 ﻿# Algorithm
 ![py](https://github.com/AvisheikhKundu/Algorithms_in_Python/assets/99108598/cd14d08a-d3fb-4528-8e2b-a9e25c5fbf74)
 
-
 It helps you preparing and succeeding in  **algorithm & data structure interview**.
 
 The topics covered are the following:
@@ -334,6 +333,3 @@ The topics covered are the following:
 * [Reverse a binary tree algo](tree.md#reverse-a-binary-tree-algo)
 * [Trie definition, implementation and use case](tree.md#trie-definition-implementation-and-use-case)
 * [Why to use BST over hash table](tree.md#why-to-use-bst-over-hash-table)
-#   A l g o r i t h m - 
- 
- 
