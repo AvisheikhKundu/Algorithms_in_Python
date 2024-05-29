@@ -1,3 +1,4 @@
+
 def sum_array(arr):
     result = 0
     n = len(arr)
