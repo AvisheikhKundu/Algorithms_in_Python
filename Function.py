@@ -8,6 +8,6 @@ def sum_array(arr):
     return result
 
 
-nums = [2, 3, 4, 5, 6]
+nums = [2, 3, 4, 5, 6, 7]
 answer = sum_array(nums)
 print(answer)
