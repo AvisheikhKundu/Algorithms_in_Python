@@ -1,6 +1,7 @@
 # Algorithms
 ![py](https://github.com/AvisheikhKundu/Algorithms_in_Python/assets/99108598/cd14d08a-d3fb-4528-8e2b-a9e25c5fbf74)
 
+
 It will help me for  preparing and succeeding in  **algorithm & data structure interview**.
 
 The topics covered are the following:
